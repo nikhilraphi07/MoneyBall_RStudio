@@ -1,5 +1,3 @@
-![MoneyBall](https://i.ibb.co/P9kry4m/moneyball.png)
-
 
   <div tabindex="-1" id="notebook" class="border-box-sizing">
     <div class="container" id="notebook-container">
@@ -16,6 +14,7 @@
 </div>
 </div>
 </div>
+![MoneyBall](https://i.ibb.co/0f57Bb0/moneyball-4-1190x700.png)
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
