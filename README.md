@@ -1,3 +1,6 @@
+# MoneyBall Project
+
+![MoneyBall](https://i.ibb.co/0f57Bb0/moneyball-4-1190x700.png)
 
   <div tabindex="-1" id="notebook" class="border-box-sizing">
     <div class="container" id="notebook-container">
@@ -10,8 +13,8 @@
 <hr>
 <p><img src=(https://i.ibb.co/0f57Bb0/moneyball-4-1190x700.png"></p>
 <hr>
-<h1 id="MoneyBall-Project---Solutions">MoneyBall Project - Solutions<a class="anchor-link" href="#MoneyBall-Project---Solutions">¶</a></h1>
-![MoneyBall](https://i.ibb.co/0f57Bb0/moneyball-4-1190x700.png)
+<h2 id="MoneyBall-Project---Solutions">MoneyBall Project - Solutions<a class="anchor-link" href="#MoneyBall-Project---Solutions">¶</a></h2>
+
 </div>
 </div>
 </div>
