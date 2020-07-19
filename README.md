@@ -1,4 +1,4 @@
-![MoneyBall](https://i.ibb.co/fxT8xy3/Moneyball.jpg)
+![MoneyBall](https://i.ibb.co/P9kry4m/moneyball.png)
 
 
   <div tabindex="-1" id="notebook" class="border-box-sizing">
