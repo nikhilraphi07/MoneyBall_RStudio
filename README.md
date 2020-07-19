@@ -1,3 +1,8 @@
+## The MoneyBall Project
+
+![MoneyBall](https://i.ibb.co/fxT8xy3/Moneyball.jpg)
+
+
 The Lahman Baseball Database
 
 2013 Version
