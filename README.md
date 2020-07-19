@@ -1,6 +1,6 @@
 # MoneyBall Project
 
-![MoneyBall](https://i.ibb.co/0f57Bb0/moneyball-4-1190x700.png)
+![MoneyBall](https://i.ibb.co/CMMh5pQ/rsz-moneyball.png)
 
   <div tabindex="-1" id="notebook" class="border-box-sizing">
     <div class="container" id="notebook-container">
