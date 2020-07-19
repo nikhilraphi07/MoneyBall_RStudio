@@ -8,7 +8,7 @@
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <hr>
-<p><img src="moneyball_title.jpg"></p>
+<p><img src=(https://i.ibb.co/0f57Bb0/moneyball-4-1190x700.png"></p>
 <hr>
 <h1 id="MoneyBall-Project---Solutions">MoneyBall Project - Solutions<a class="anchor-link" href="#MoneyBall-Project---Solutions">¶</a></h1>
 </div>
