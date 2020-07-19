@@ -11,10 +11,10 @@
 <p><img src=(https://i.ibb.co/0f57Bb0/moneyball-4-1190x700.png"></p>
 <hr>
 <h1 id="MoneyBall-Project---Solutions">MoneyBall Project - Solutions<a class="anchor-link" href="#MoneyBall-Project---Solutions">¶</a></h1>
-</div>
-</div>
-</div>
 ![MoneyBall](https://i.ibb.co/0f57Bb0/moneyball-4-1190x700.png)
+</div>
+</div>
+</div>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
