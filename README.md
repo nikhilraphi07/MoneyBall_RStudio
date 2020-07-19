@@ -13,7 +13,7 @@
 <hr>
 <p><img src=(https://i.ibb.co/0f57Bb0/moneyball-4-1190x700.png"></p>
 <hr>
-<h2 id="MoneyBall-Project---Solutions">MoneyBall Project - Solutions<a class="anchor-link" href="#MoneyBall-Project---Solutions">¶</a></h2>
+<h1 id="MoneyBall-Project---Solutions">MoneyBall Project - Solutions<a class="anchor-link" href="#MoneyBall-Project---Solutions">¶</a></h1>
 
 </div>
 </div>
